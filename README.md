@@ -1,5 +1,4 @@
-# Optimising Business Operations: A Case Study on a Local Cafe
-
+# Data-Driven Optimization of Cafe Business Operations
 The project aims to improve the operational performance of **Bihan Canteen**, a small food outlet located on the NIT Raipur campus, using basic business analytics and data-driven techniques.
 
 
